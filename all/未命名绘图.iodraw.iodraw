@@ -62,14 +62,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="80" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="750" y="465" />
+              <mxPoint x="750" y="441" />
               <mxPoint x="750" y="110" />
               <mxPoint x="461" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-84" value="&lt;b&gt;APP(服务端)&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="390" width="150" height="102" as="geometry" />
+          <mxGeometry x="395" y="390" width="150" height="102" as="geometry" />
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-85" value="&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-84">
           <mxGeometry y="26" width="150" height="24" as="geometry" />
@@ -102,12 +102,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="390" />
+              <mxPoint x="470" y="380" />
+              <mxPoint x="470" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-123" value="收到用户命令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="440" width="80" height="30" as="geometry" />
+          <mxGeometry x="595" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1M6TC4PQ5VA3ktW9FNT-58">
           <mxGeometry relative="1" as="geometry">
