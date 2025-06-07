@@ -1,12 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="T1ah0GZbPNw7v5BFFdLf">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-3" value="&lt;div&gt;显示模块&lt;/div&gt;&lt;div&gt;OLED&lt;/div&gt;&lt;div&gt;显示传感器数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-56" value="传感器模块" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="140" width="140" height="104" as="geometry" />
         </mxCell>
@@ -44,16 +41,13 @@
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-68" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="140" width="380" height="480" as="geometry" />
+          <mxGeometry x="-30" y="280" width="260" height="480" as="geometry" />
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-69" value="Lane 1" style="swimlane;startSize=20;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-68">
           <mxGeometry x="20" width="120" height="480" as="geometry" />
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-70" value="Lane 2" style="swimlane;startSize=20;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-68">
           <mxGeometry x="140" width="120" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-71" value="Lane 3" style="swimlane;startSize=20;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-68">
-          <mxGeometry x="260" width="120" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
