@@ -55,6 +55,18 @@
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-81" value="水泵(灌溉)&lt;div&gt;排气扇(排气)&lt;/div&gt;&lt;div&gt;有源蜂鸣器(报警)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-73">
           <mxGeometry x="50" y="24" width="140" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-84" value="&lt;b&gt;传感器模块&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="150" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-85" value="HW-080(土壤湿度)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-84">
+          <mxGeometry y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-86" value="&lt;span style=&quot;&quot;&gt;JW01(二氧化碳)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-84">
+          <mxGeometry y="52" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-87" value="&lt;span style=&quot;&quot;&gt;DHT11(温湿度)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-84">
+          <mxGeometry y="78" width="150" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
