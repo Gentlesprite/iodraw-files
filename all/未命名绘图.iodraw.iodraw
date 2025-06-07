@@ -1,20 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="T1ah0GZbPNw7v5BFFdLf">
-    <mxGraphModel dx="206" dy="122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="512" dy="303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-109" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;strokeColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="D1M6TC4PQ5VA3ktW9FNT-56">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="305" y="274" />
-              <mxPoint x="371" y="274" />
-              <mxPoint x="371" y="280" />
-              <mxPoint x="370" y="280" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-56" value="&lt;b&gt;传感器模块&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="150" width="150" height="104" as="geometry" />
         </mxCell>
