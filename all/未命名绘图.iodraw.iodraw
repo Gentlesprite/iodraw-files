@@ -29,25 +29,22 @@
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-64" value="&lt;b&gt;显示模块&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="140" width="140" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-65" value="&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-64">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
+          <mxGeometry x="570" y="140" width="140" height="78" as="geometry" />
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-66" value="&lt;span style=&quot;&quot;&gt;OLED&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-64">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-67" value="&lt;div style=&quot;&quot;&gt;显示传感器数据&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-64">
-          <mxGeometry y="78" width="140" height="26" as="geometry" />
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-70" value="通信模块" style="swimlane;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="230" y="270" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-78" value="ESP32C3(WiFi)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-70">
-          <mxGeometry y="30" width="140" height="26" as="geometry" />
+          <mxGeometry x="50" y="32" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-79" value="TCP连接" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-70">
-          <mxGeometry x="50" y="50" width="140" height="26" as="geometry" />
+          <mxGeometry x="44" y="50" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-73" value="执行设备" style="swimlane;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="470" y="270" width="240" height="90" as="geometry" />
