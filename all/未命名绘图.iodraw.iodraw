@@ -60,7 +60,14 @@
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1M6TC4PQ5VA3ktW9FNT-84">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="465" as="targetPoint" />
+            <mxPoint x="460" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="677" y="465" />
+              <mxPoint x="677" y="490" />
+              <mxPoint x="810" y="490" />
+              <mxPoint x="810" y="70" />
+              <mxPoint x="460" y="70" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-84" value="&lt;b&gt;APP(服务端)&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
