@@ -62,8 +62,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="80" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="740" y="465" />
-              <mxPoint x="740" y="110" />
+              <mxPoint x="750" y="465" />
+              <mxPoint x="750" y="110" />
               <mxPoint x="461" y="110" />
             </Array>
           </mxGeometry>
@@ -109,6 +109,9 @@
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-123" value="收到用户命令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1M6TC4PQ5VA3ktW9FNT-58" target="D1M6TC4PQ5VA3ktW9FNT-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
