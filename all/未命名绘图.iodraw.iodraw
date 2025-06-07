@@ -52,6 +52,9 @@
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-73" value="执行设备" style="swimlane;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="470" y="270" width="240" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-81" value="ESP32C3(WiFi)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-73">
+          <mxGeometry x="50" y="24" width="140" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
