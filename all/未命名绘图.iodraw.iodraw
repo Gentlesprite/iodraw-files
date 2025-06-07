@@ -7,7 +7,9 @@
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-109" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;shape=flexArrow;entryX=0.313;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D1M6TC4PQ5VA3ktW9FNT-56" target="D1M6TC4PQ5VA3ktW9FNT-70">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="305" y="270" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="295" y="284" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-56" value="&lt;b&gt;传感器模块&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
