@@ -70,8 +70,10 @@
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-93" value="" style="shape=corner;whiteSpace=wrap;html=2;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="270" y="214" width="375" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-94" value="" style="shape=tee;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="170" width="80" height="80" as="geometry" />
+        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-94" value="" style="shape=tee;whiteSpace=wrap;html=1;container=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="530" y="170" width="50" height="40" as="geometry">
+            <mxRectangle x="530" y="170" width="80" height="80" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
