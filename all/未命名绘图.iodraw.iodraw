@@ -4,19 +4,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-109" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.313;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D1M6TC4PQ5VA3ktW9FNT-56" target="D1M6TC4PQ5VA3ktW9FNT-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="270" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-56" value="&lt;b&gt;传感器模块&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="140" width="130" height="104" as="geometry" />
+          <mxGeometry x="230" y="140" width="150" height="104" as="geometry" />
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-57" value="HW-080(土壤湿度)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-56">
-          <mxGeometry y="26" width="130" height="26" as="geometry" />
+          <mxGeometry y="26" width="150" height="26" as="geometry" />
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-58" value="&lt;span style=&quot;&quot;&gt;JW01(二氧化碳)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-56">
-          <mxGeometry y="52" width="130" height="26" as="geometry" />
+          <mxGeometry y="52" width="150" height="26" as="geometry" />
         </mxCell>
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-59" value="&lt;span style=&quot;&quot;&gt;DHT11(温湿度)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="D1M6TC4PQ5VA3ktW9FNT-56">
-          <mxGeometry y="78" width="130" height="26" as="geometry" />
+          <mxGeometry y="78" width="150" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="D1M6TC4PQ5VA3ktW9FNT-60" target="D1M6TC4PQ5VA3ktW9FNT-73">
+        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D1M6TC4PQ5VA3ktW9FNT-60" target="D1M6TC4PQ5VA3ktW9FNT-73">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="260" as="targetPoint" />
             <Array as="points" />
@@ -104,7 +110,7 @@
         <mxCell id="D1M6TC4PQ5VA3ktW9FNT-123" value="收到用户命令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="D1M6TC4PQ5VA3ktW9FNT-58">
+        <mxCell id="D1M6TC4PQ5VA3ktW9FNT-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1M6TC4PQ5VA3ktW9FNT-58">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="205" as="targetPoint" />
           </mxGeometry>
