@@ -86,7 +86,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nnYxjb3dDkyf9CTDVy69-22" value="&lt;div&gt;定时器1 -&amp;gt; 阈值控制&lt;/div&gt;自动启停对应外设" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="nnYxjb3dDkyf9CTDVy69-22" value="&lt;div&gt;定时器1阈值控制&lt;/div&gt;自动启停对应外设" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="930" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nnYxjb3dDkyf9CTDVy69-25" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -101,7 +101,7 @@
         <mxCell id="nnYxjb3dDkyf9CTDVy69-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nnYxjb3dDkyf9CTDVy69-28" target="nnYxjb3dDkyf9CTDVy69-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nnYxjb3dDkyf9CTDVy69-28" value="是否接收到&lt;div&gt;用户&lt;span style=&quot;background-color: initial;&quot;&gt;命令&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nnYxjb3dDkyf9CTDVy69-28" value="&lt;div&gt;串口3&lt;/div&gt;&lt;div&gt;空闲&lt;span style=&quot;background-color: initial;&quot;&gt;中断&lt;/span&gt;&lt;/div&gt;是否接收到&lt;span style=&quot;background-color: initial;&quot;&gt;用户&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;命令&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="810" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nnYxjb3dDkyf9CTDVy69-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nnYxjb3dDkyf9CTDVy69-31" edge="1">
