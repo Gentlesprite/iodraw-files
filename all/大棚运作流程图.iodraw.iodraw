@@ -21,7 +21,7 @@
         <mxCell id="8y7EZ5rXkDYeg4xCSHYF-7" value="土壤湿度是否&lt;div&gt;在&lt;span style=&quot;background-color: initial;&quot;&gt;预设范围？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="420" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8y7EZ5rXkDYeg4xCSHYF-8" value="土壤湿度是否&lt;div&gt;在&lt;span style=&quot;background-color: initial;&quot;&gt;预设范围？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8y7EZ5rXkDYeg4xCSHYF-8" value="二氧化碳浓度&lt;div&gt;是否&lt;div&gt;在&lt;span style=&quot;background-color: initial;&quot;&gt;预设范围？&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="420" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
