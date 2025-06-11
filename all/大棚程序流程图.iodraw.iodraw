@@ -33,9 +33,13 @@
         <mxCell id="nnYxjb3dDkyf9CTDVy69-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnYxjb3dDkyf9CTDVy69-9" target="nnYxjb3dDkyf9CTDVy69-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nnYxjb3dDkyf9CTDVy69-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnYxjb3dDkyf9CTDVy69-9">
+        <mxCell id="nnYxjb3dDkyf9CTDVy69-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnYxjb3dDkyf9CTDVy69-9" target="nnYxjb3dDkyf9CTDVy69-49">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="850" as="targetPoint" />
+            <mxPoint x="90" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="91" y="600" />
+              <mxPoint x="91" y="1060" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nnYxjb3dDkyf9CTDVy69-9" value="进入主循环" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -118,7 +122,7 @@
         <mxCell id="nnYxjb3dDkyf9CTDVy69-34" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="820" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nnYxjb3dDkyf9CTDVy69-49" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nnYxjb3dDkyf9CTDVy69-49" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
