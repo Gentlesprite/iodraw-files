@@ -68,15 +68,8 @@
         <mxCell id="nnYxjb3dDkyf9CTDVy69-18" value="OLED实时显示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="730" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nnYxjb3dDkyf9CTDVy69-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.167;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nnYxjb3dDkyf9CTDVy69-22" target="nnYxjb3dDkyf9CTDVy69-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="1010" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="551" y="945" />
-              <mxPoint x="551" y="1010" />
-              <mxPoint x="230" y="1010" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="nnYxjb3dDkyf9CTDVy69-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnYxjb3dDkyf9CTDVy69-22" target="nnYxjb3dDkyf9CTDVy69-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nnYxjb3dDkyf9CTDVy69-22" value="自动启动外设" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="920" width="120" height="50" as="geometry" />
@@ -104,6 +97,9 @@
         </mxCell>
         <mxCell id="nnYxjb3dDkyf9CTDVy69-34" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nnYxjb3dDkyf9CTDVy69-36" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="915" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
