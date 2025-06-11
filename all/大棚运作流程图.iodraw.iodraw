@@ -118,7 +118,7 @@
         <mxCell id="iKMwzhfDPuuo6bNDOaLQ-27" value="水泵启动" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="500" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iKMwzhfDPuuo6bNDOaLQ-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKMwzhfDPuuo6bNDOaLQ-28">
+        <mxCell id="iKMwzhfDPuuo6bNDOaLQ-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iKMwzhfDPuuo6bNDOaLQ-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="570" as="targetPoint" />
             <Array as="points">
