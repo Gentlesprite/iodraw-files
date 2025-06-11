@@ -36,7 +36,7 @@
         <mxCell id="nnYxjb3dDkyf9CTDVy69-9" value="进入主循环" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="575" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nnYxjb3dDkyf9CTDVy69-11" value="传感器数据采集" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nnYxjb3dDkyf9CTDVy69-11" value="传感器数据采集，&lt;div&gt;温度湿度，&lt;/div&gt;&lt;div&gt;CO2浓度，土壤湿度&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="650" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
