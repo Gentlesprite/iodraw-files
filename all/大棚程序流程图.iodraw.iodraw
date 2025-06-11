@@ -36,22 +36,19 @@
         <mxCell id="nnYxjb3dDkyf9CTDVy69-9" value="进入主循环" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="575" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nnYxjb3dDkyf9CTDVy69-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnYxjb3dDkyf9CTDVy69-11" target="nnYxjb3dDkyf9CTDVy69-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nnYxjb3dDkyf9CTDVy69-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnYxjb3dDkyf9CTDVy69-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nnYxjb3dDkyf9CTDVy69-11" value="温湿度、CO2浓度、土壤湿度数据采集" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="650" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nnYxjb3dDkyf9CTDVy69-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnYxjb3dDkyf9CTDVy69-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nnYxjb3dDkyf9CTDVy69-13" value="各数据是否超过用户&lt;div&gt;设定阈值？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="830" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nnYxjb3dDkyf9CTDVy69-18" value="温湿度、CO2浓度、土壤湿度数据采集" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="710" width="120" height="50" as="geometry" />
+        <mxCell id="nnYxjb3dDkyf9CTDVy69-18" value="OLED实时显示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="730" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
