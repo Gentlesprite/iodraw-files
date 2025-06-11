@@ -23,7 +23,7 @@
         </mxCell>
         <mxCell id="iKMwzhfDPuuo6bNDOaLQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8y7EZ5rXkDYeg4xCSHYF-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="590" as="targetPoint" />
+            <mxPoint x="660" y="580" as="targetPoint" />
             <Array as="points">
               <mxPoint x="180" y="445" />
               <mxPoint x="180" y="590" />
@@ -36,16 +36,6 @@
         <mxCell id="iKMwzhfDPuuo6bNDOaLQ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8y7EZ5rXkDYeg4xCSHYF-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iKMwzhfDPuuo6bNDOaLQ-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="8y7EZ5rXkDYeg4xCSHYF-7" target="iKMwzhfDPuuo6bNDOaLQ-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="450" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="490" y="445" />
-              <mxPoint x="490" y="590" />
-              <mxPoint x="660" y="590" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8y7EZ5rXkDYeg4xCSHYF-7" value="土壤湿度是否&lt;div&gt;在&lt;span style=&quot;background-color: initial;&quot;&gt;预设范围？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
