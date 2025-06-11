@@ -106,11 +106,18 @@
         <mxCell id="iKMwzhfDPuuo6bNDOaLQ-26" value="蜂鸣器报警" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="500" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iKMwzhfDPuuo6bNDOaLQ-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKMwzhfDPuuo6bNDOaLQ-27" target="iKMwzhfDPuuo6bNDOaLQ-68">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iKMwzhfDPuuo6bNDOaLQ-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKMwzhfDPuuo6bNDOaLQ-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iKMwzhfDPuuo6bNDOaLQ-27" value="水泵启动" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="500" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKMwzhfDPuuo6bNDOaLQ-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKMwzhfDPuuo6bNDOaLQ-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iKMwzhfDPuuo6bNDOaLQ-28" value="排气扇启动" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="500" width="120" height="50" as="geometry" />
@@ -123,9 +130,6 @@
         </mxCell>
         <mxCell id="iKMwzhfDPuuo6bNDOaLQ-63" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="420" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="iKMwzhfDPuuo6bNDOaLQ-68" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="625" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
