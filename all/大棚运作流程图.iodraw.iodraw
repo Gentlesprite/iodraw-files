@@ -100,7 +100,11 @@
         </mxCell>
         <mxCell id="iKMwzhfDPuuo6bNDOaLQ-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKMwzhfDPuuo6bNDOaLQ-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="570" as="targetPoint" />
+            <mxPoint x="420" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="570" />
+              <mxPoint x="420" y="570" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iKMwzhfDPuuo6bNDOaLQ-26" value="蜂鸣器报警" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
