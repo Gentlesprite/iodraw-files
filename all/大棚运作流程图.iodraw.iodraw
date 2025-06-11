@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="llq_8MlXgp8CLJx52NLd">
-    <mxGraphModel dx="875" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="600" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,6 +46,9 @@
             <mxPoint x="560" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iKMwzhfDPuuo6bNDOaLQ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8y7EZ5rXkDYeg4xCSHYF-8" target="iKMwzhfDPuuo6bNDOaLQ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8y7EZ5rXkDYeg4xCSHYF-8" value="CO2浓度&lt;span style=&quot;background-color: initial;&quot;&gt;是否&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;在&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;预设范围？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="420" width="120" height="50" as="geometry" />
         </mxCell>
@@ -74,7 +77,7 @@
           <mxGeometry x="260" y="470" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iKMwzhfDPuuo6bNDOaLQ-11" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="470" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="470" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iKMwzhfDPuuo6bNDOaLQ-19" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="420" width="60" height="30" as="geometry" />
@@ -87,6 +90,12 @@
         </mxCell>
         <mxCell id="iKMwzhfDPuuo6bNDOaLQ-28" value="排气扇启动" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="500" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKMwzhfDPuuo6bNDOaLQ-31" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iKMwzhfDPuuo6bNDOaLQ-32" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="415" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
