@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="CCz3PvEOLsYBSlHg68__">
-    <mxGraphModel dx="640" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="366" dy="211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,11 +44,6 @@
         <mxCell id="nnYxjb3dDkyf9CTDVy69-11" value="温湿度、CO2浓度、土壤湿度数据采集" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="650" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nnYxjb3dDkyf9CTDVy69-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nnYxjb3dDkyf9CTDVy69-13" target="nnYxjb3dDkyf9CTDVy69-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="835" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nnYxjb3dDkyf9CTDVy69-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnYxjb3dDkyf9CTDVy69-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="945" as="targetPoint" />
@@ -56,6 +51,9 @@
               <mxPoint x="110" y="945" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nnYxjb3dDkyf9CTDVy69-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnYxjb3dDkyf9CTDVy69-13" target="nnYxjb3dDkyf9CTDVy69-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nnYxjb3dDkyf9CTDVy69-13" value="各数据是否超过&lt;div&gt;用户&lt;span style=&quot;background-color: initial;&quot;&gt;设定阈值？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="910" width="120" height="70" as="geometry" />
@@ -67,10 +65,10 @@
           <mxGeometry x="170" y="730" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nnYxjb3dDkyf9CTDVy69-22" value="自动启动外设" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="920" width="120" height="50" as="geometry" />
+          <mxGeometry x="80" y="1020" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nnYxjb3dDkyf9CTDVy69-25" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="980" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="990" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nnYxjb3dDkyf9CTDVy69-26" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="910" width="60" height="30" as="geometry" />
