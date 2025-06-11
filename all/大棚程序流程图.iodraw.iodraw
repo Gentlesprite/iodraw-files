@@ -69,7 +69,7 @@
           <mxGeometry x="170" y="730" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nnYxjb3dDkyf9CTDVy69-22" value="自动启动外设" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="920" width="120" height="50" as="geometry" />
+          <mxGeometry x="340" y="920" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nnYxjb3dDkyf9CTDVy69-25" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="920" width="60" height="30" as="geometry" />
@@ -85,6 +85,9 @@
         </mxCell>
         <mxCell id="nnYxjb3dDkyf9CTDVy69-31" value="自动启动外设" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="770" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nnYxjb3dDkyf9CTDVy69-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="860" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
