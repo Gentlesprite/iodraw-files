@@ -28,12 +28,23 @@
         <mxCell id="8y7EZ5rXkDYeg4xCSHYF-8" value="CO2浓度&lt;span style=&quot;background-color: initial;&quot;&gt;是否&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;在&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;预设范围？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="420" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8y7EZ5rXkDYeg4xCSHYF-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="8y7EZ5rXkDYeg4xCSHYF-8">
+        <mxCell id="8y7EZ5rXkDYeg4xCSHYF-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8y7EZ5rXkDYeg4xCSHYF-1" target="8y7EZ5rXkDYeg4xCSHYF-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="350" as="sourcePoint" />
             <mxPoint x="210" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="420" />
+              <mxPoint x="420" y="370" />
+              <mxPoint x="640" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8y7EZ5rXkDYeg4xCSHYF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="350" as="sourcePoint" />
+            <mxPoint x="650" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="380" />
+              <mxPoint x="650" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
