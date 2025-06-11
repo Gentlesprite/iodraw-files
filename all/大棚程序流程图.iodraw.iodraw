@@ -16,8 +16,17 @@
         <mxCell id="nnYxjb3dDkyf9CTDVy69-2" value="系统初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="370" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="nnYxjb3dDkyf9CTDVy69-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnYxjb3dDkyf9CTDVy69-4" target="nnYxjb3dDkyf9CTDVy69-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nnYxjb3dDkyf9CTDVy69-4" value="定时器、串口初始化" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nnYxjb3dDkyf9CTDVy69-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnYxjb3dDkyf9CTDVy69-8" value="定时器、串口初始化" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="450" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
