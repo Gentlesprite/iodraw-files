@@ -18,8 +18,8 @@
         <mxCell id="8y7EZ5rXkDYeg4xCSHYF-6" value="湿度是否在&lt;div&gt;预设范围？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="420" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8y7EZ5rXkDYeg4xCSHYF-7" value="湿度是否在&lt;div&gt;预设范围？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="430" width="120" height="50" as="geometry" />
+        <mxCell id="8y7EZ5rXkDYeg4xCSHYF-7" value="土壤湿度是否&lt;div&gt;在&lt;span style=&quot;background-color: initial;&quot;&gt;预设范围？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="420" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
