@@ -4,9 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8y7EZ5rXkDYeg4xCSHYF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8y7EZ5rXkDYeg4xCSHYF-1">
+        <mxCell id="8y7EZ5rXkDYeg4xCSHYF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8y7EZ5rXkDYeg4xCSHYF-1" target="8y7EZ5rXkDYeg4xCSHYF-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="370" />
+              <mxPoint x="200" y="370" />
+              <mxPoint x="200" y="445" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8y7EZ5rXkDYeg4xCSHYF-1" value="检测大棚各项数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
