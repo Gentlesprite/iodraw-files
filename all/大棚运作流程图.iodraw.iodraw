@@ -49,13 +49,10 @@
         <mxCell id="iKMwzhfDPuuo6bNDOaLQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8y7EZ5rXkDYeg4xCSHYF-8" target="iKMwzhfDPuuo6bNDOaLQ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iKMwzhfDPuuo6bNDOaLQ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8y7EZ5rXkDYeg4xCSHYF-8">
+        <mxCell id="iKMwzhfDPuuo6bNDOaLQ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKMwzhfDPuuo6bNDOaLQ-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="390" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="490" y="445" />
-              <mxPoint x="490" y="390" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8y7EZ5rXkDYeg4xCSHYF-8" value="CO2浓度&lt;span style=&quot;background-color: initial;&quot;&gt;是否&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;在&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;预设范围？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -102,6 +99,19 @@
         </mxCell>
         <mxCell id="iKMwzhfDPuuo6bNDOaLQ-22" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iKMwzhfDPuuo6bNDOaLQ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8y7EZ5rXkDYeg4xCSHYF-8" target="iKMwzhfDPuuo6bNDOaLQ-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="445" as="sourcePoint" />
+            <mxPoint x="170" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="445" />
+              <mxPoint x="490" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKMwzhfDPuuo6bNDOaLQ-23" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="474" y="420" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
